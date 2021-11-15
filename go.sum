@@ -1,0 +1,4 @@
+github.com/inhies/go-bytesize v0.0.0-20210819104631-275770b98743 h1:X3Xxno5Ji8idrNiUoFc7QyXpqhSYlDRYQmc7mlpMBzU=
+github.com/inhies/go-bytesize v0.0.0-20210819104631-275770b98743/go.mod h1:KrtyD5PFj++GKkFS/7/RRrfnRhAMGQwy75GLCHWrCNs=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
